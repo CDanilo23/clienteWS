@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/webservice/MisServicios?wsdl" uri="xml-resources/web-service-references/MisServicios/wsdl/localhost_8080/webservice/MisServicios.wsdl"/>
+    <system systemId="http://localhost:8080/webservice/MisServicios?xsd=1" uri="xml-resources/web-service-references/MisServicios/wsdl/localhost_8080/webservice/MisServicios.xsd_1.xsd"/>
+    <system systemId="http://rgh-ls11-13:8080/webservice/MisServicios?wsdl" uri="xml-resources/web-service-references/MisServicios/wsdl/rgh-ls11-13_8080/webservice/MisServicios.wsdl"/>
+    <system systemId="http://rgh-ls11-13:8080/webservice/MisServicios?xsd=1" uri="xml-resources/web-service-references/MisServicios/wsdl/rgh-ls11-13_8080/webservice/MisServicios.xsd_1.xsd"/>
+</catalog>
